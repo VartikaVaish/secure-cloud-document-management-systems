@@ -14,3 +14,5 @@ A Flask-based web application for securely managing documents.
 - HTML
 - CSS
 - SQLite
+- [📄 View Project Presentation (PDF)](aws_cloud_computing_project%20%281%29.pdf)
+- 
